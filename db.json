@@ -1,0 +1,39 @@
+{
+  orders: [
+    {
+      id:1,
+      title:'Iphone 11 Pro Max'
+    },
+    {
+      id:2,
+      title:'Iphone 12'
+    }
+  ],
+  products: [
+    {
+      id:1,
+      orderId:1,
+      title:'Iphone 11 Pro Max - 128GB'
+    },
+    {
+      id:2,
+      orderId:1,
+      title:'Iphone 11 Pro Max - Şeffaf Kılıf'
+    },
+    {
+      id:3,
+      orderId:1,
+      title:'Iphone 11 Pro Max - Kırılmaz Cam'
+    },
+    {
+      id:4,
+      orderId:2,
+      title:'Iphone 12 - 128GB'
+    },
+    {
+      id:5,
+      orderId:2,
+      title:'Iphone 12 - Şeffaf Kılıf'
+    },
+  ]
+}
