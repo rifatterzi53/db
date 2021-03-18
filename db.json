@@ -1,4 +1,30 @@
 {
+  "surveyQuestions": [
+    {
+      "id": 1,
+      "questionNo": 1,
+      "questionText": "Aldığınız hizmeti değerlendirdiğinizde müşteri temsilcisinden ne derece memnun kaldınız?",
+      "type": "LIKERT_SCALE"
+    },
+    {
+      "id": 2,
+      "questionNo": 2,
+      "questionText": "Aldığınız hizmeti düşündüğünüzde talebinizi sonuçlandırmak sizin için ne derece kolaydı?",
+      "type": "LIKERT_SCALE"
+    },
+    {
+      "id": 3,
+      "questionNo": 3,
+      "questionText": "Size sunulan çözümden ne derece memnun kaldınız?",
+      "type": "LIKERT_SCALE"
+    },
+    {
+      "id": 4,
+      "questionNo": 4,
+      "questionText": "Görüş ve önerilerinizi buraya yazabilirsiniz.",
+      "type": "FREE_TEXT"
+    }
+  ],
   "orders": [
     {
       "id":1,
