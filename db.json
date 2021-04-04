@@ -62,9 +62,18 @@
       "title":"Iphone 12 - Şeffaf Kılıf"
     }
   ],
-  "decrypted" : {
-    "username":"Rıfat Terzi",
-    "mail":"rifat.terzi@hotmail.com",
-    "id":12345
-  }
+  "decrypted" : [
+    {
+      "encrypt_data":"qwertyuopasdfghjklizxcvbnm",
+      "username":"Rıfat Terzi",
+      "mail":"rifat.terzi@hotmail.com",
+      "id":12345
+    },
+    {
+      "encrypt_data":"zxcvbnmasdfghjkliqwertyuop",
+      "username":"Rıfat Wace",
+      "mail":"rifat@wace.com.tr",
+      "id":23456
+    }
+  ]
 }
