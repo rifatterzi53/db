@@ -63,8 +63,10 @@
     }
   ],
   "decrypted" : {
-    "username":"Rıfat Terzi",
-    "mail":"rifat.terzi@hotmail.com",
-    "id":12345
+    "encrypt_data": {
+      "username":"Rıfat Terzi",
+      "mail":"rifat.terzi@hotmail.com",
+      "id":12345
+    }
   }
 }
