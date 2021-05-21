@@ -75,5 +75,13 @@
       "mail":"rifat@wace.com.tr",
       "id":23456
     }
-  ]
+  ],
+  "decrypted2" : {
+    "buyerNo": "5093211",
+    "buyerFullName": "Rıfat Terzi",
+    "buyerEmail": "rifat@wace.comtr",
+    "sellerId":"1821200",
+    "sellerName":"Doğan",
+    "productId": "259096841"
+  }
 }
