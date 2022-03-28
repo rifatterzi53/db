@@ -1,39 +1,11 @@
 {
-  products: [
+  "posts": [
     {
       "id": 1,
-      "title": "Test Product 1",
-      "description": "Test product description 1...",
-      "image": "https://eticaretdanismani.org/wp-content/uploads/2020/03/dac55-logo-1.png",
-      "price": 124.99
-    },
-    {
-      "id": 2,
-      "title": "Test Product 2",
-      "description": "Test product description 2...",
-      "image": "https://eticaretdanismani.org/wp-content/uploads/2020/03/dac55-logo-1.png",
-      "price": 197.34
-    },
-    {
-      "id": 3,
-      "title": "Test Product 3",
-      "description": "Test product description 3...",
-      "image": "https://eticaretdanismani.org/wp-content/uploads/2020/03/dac55-logo-1.png",
-      "price": 145.57
-    },
-    {
-      "id": 4,
-      "title": "Test Product 4",
-      "description": "Test product description 4...",
-      "image": "https://eticaretdanismani.org/wp-content/uploads/2020/03/dac55-logo-1.png",
-      "price": 99.75
-    },
-    {
-      "id": 5,
-      "title": "Test Product 5",
-      "description": "Test product description 5...",
-      "image": "https://eticaretdanismani.org/wp-content/uploads/2020/03/dac55-logo-1.png",
-      "price": 67.87
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
